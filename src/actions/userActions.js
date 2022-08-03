@@ -2,8 +2,8 @@ import { FETCH_USERS, ADD_USER, EDIT_USER, DELETE_USER } from "./types";
 const users = [
     {
       "id": 1,
-      "name": "Das Nobel",
-      "email": "dasnobel@mtx.biz",
+      "name": "Amit Goyal",
+      "email": "amit@gmail.com",
       "pencard":"233434223",
       "driving":"1232323131",
       "phone": "1111111111",
@@ -12,8 +12,8 @@ const users = [
     },
     {
       "id": 2,
-      "name": "Clement Mihailescu",
-      "email": "Clement@alogo.biz",
+      "name": "Rahul Sachdeva",
+      "email": "Rahul@gmail.com",
       "pencard":"232434223",
       "driving":"1232322131",
       "phone": "1111111112",
